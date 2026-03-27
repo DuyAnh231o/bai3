@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     Start([Start])
     A[Customer xem sản phẩm]
